@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    , "dev": "webpack-dev-server --progress --colors --inline --hot"
   },
   "keywords": [],
   "author": "Lucas Taliberti <lucastaliberti@syllus.com.br> (https://github.com/lucastaliberti)",
